@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #1475BB;
+    display: grid;
+    grid-template-areas: 
+        "info-basicas"
+        "info-produto"
+        "midia" ;
+    height: 100vh;
+}
